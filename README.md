@@ -65,3 +65,12 @@ gcc src/step09_nearest_neighbor_tracking.c -o step09
 
 updated for GitHub practice 260506
 update README in feature branch
+
+## 📝 TODO
+
+* [ ] Improve CFAR threshold logic
+* [ ] Fix edge bin handling
+* [ ] Add prediction-based tracking
+* [ ] Implement Kalman filter tracking
+* [ ] Multi-target tracking
+
